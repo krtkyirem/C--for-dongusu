@@ -1,0 +1,14 @@
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\bin\Debug\netcoreapp3.1\ucgen.olusturma.exe
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\bin\Debug\netcoreapp3.1\ucgen.olusturma.deps.json
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\bin\Debug\netcoreapp3.1\ucgen.olusturma.runtimeconfig.json
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\bin\Debug\netcoreapp3.1\ucgen.olusturma.runtimeconfig.dev.json
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\bin\Debug\netcoreapp3.1\ucgen.olusturma.dll
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\bin\Debug\netcoreapp3.1\ucgen.olusturma.pdb
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\obj\Debug\netcoreapp3.1\ucgen.olusturma.csproj.AssemblyReference.cache
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\obj\Debug\netcoreapp3.1\ucgen.olusturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\obj\Debug\netcoreapp3.1\ucgen.olusturma.AssemblyInfoInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\obj\Debug\netcoreapp3.1\ucgen.olusturma.AssemblyInfo.cs
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\obj\Debug\netcoreapp3.1\ucgen.olusturma.csproj.CoreCompileInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\obj\Debug\netcoreapp3.1\ucgen.olusturma.dll
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\obj\Debug\netcoreapp3.1\ucgen.olusturma.pdb
+C:\Users\irems\Desktop\Github-Projeler\ucgen\ucgen.olusturma\obj\Debug\netcoreapp3.1\ucgen.olusturma.genruntimeconfig.cache
